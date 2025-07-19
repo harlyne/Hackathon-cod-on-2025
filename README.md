@@ -13,6 +13,26 @@ Créer une solution complète de gestion de données Excel avec :
 
 ---
 
+## 📸 Aperçu de l'Application
+
+### 🎯 **Dashboard Exécutif**
+![Dashboard Principal](docs/screenshots/dashboard.png)
+*Interface principale avec métriques temps réel et visualisations interactives - 70 employés, salaire moyen de 1,090,573 FCFA*
+
+### 📥 **Import Excel Intelligent** 
+![Interface Import](docs/screenshots/import.png)
+*Glisser-déposer de fichiers Excel avec validation automatique et détection de format*
+
+### ✏️ **Gestion des Données**
+![Interface Gestion](docs/screenshots/gestion.png)
+*Recherche, filtrage et modification d'employés avec interface intuitive - 70 employés affichés*
+
+### 📤 **Export Professionnel**
+![Interface Export](docs/screenshots/export.png)
+*Génération et téléchargement de fichiers Excel avec aperçu des données - 70 employés prêts à exporter*
+
+---
+
 ## ✨ Fonctionnalités Principales
 
 ### 📥 **Import Excel Intelligent**
