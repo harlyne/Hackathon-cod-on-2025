@@ -1,0 +1,40 @@
+# Environnement virtuel
+venv/
+env/
+.venv/
+
+# Base de données SQLite
+*.db
+*.sqlite
+*.sqlite3
+employees.db
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Fichiers Excel temporaires
+~$*.xlsx
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers d'export temporaires
+export_*.xlsx
